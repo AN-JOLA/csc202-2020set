@@ -1,0 +1,26 @@
+{
+  "name": "es6-primer",
+  "version": "1.0.0",
+  "description": "EcmaScript 6+ Primer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AN-JOLA/AJCSC202.git"
+  },
+  "keywords": [
+    "es6",
+    "node",
+    "JavaScript"
+  ],
+  "author": "Anjolaoluwa Olowokere",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AN-JOLA/AJCSC202/issues"
+  },
+  "homepage": "https://github.com/AN-JOLA/AJCSC202#readme"
+
+}
